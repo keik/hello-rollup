@@ -7,7 +7,7 @@
     "watch": "rollup -c -w"
   },
   "author": "keik <k4t0.kei@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "babel-preset-react": "^6.11.1",
     "node-static": "^0.7.7",
